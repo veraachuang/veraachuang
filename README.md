@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Vera Chuang, a freshmen studying in the University of Washington, and an aspiring Product Manager and Software Engineer 
+- 👋 Hi, I’m Vera Chuang, a sophomore studying Informatics at the University of Washington, and an aspiring Software Engineer 
 - 👀 I’m interested in the crosspaths of technological innovation and social impact
-- 🌱 I’m currently learning mobile app development, dabbling with Flutter and React Native
+- 🌱 Currently learning mobile app development, dabbling with Flutter and React Native
 - 📫 [LinkedIn](https://www.linkedin.com/in/veraachuang/) | [verachuang.me](verachuang.me) | hchuan@uw.edu
 
 <!---
